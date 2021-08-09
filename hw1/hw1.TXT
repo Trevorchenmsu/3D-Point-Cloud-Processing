@@ -1,0 +1,19 @@
+Bilateral Filter是要用KITTI裡面哪個？http://www.cvlibs.net/datasets/kitti/eval_depth_all.php
+
+
+裡面有三種資料，development kit我已經下載了。
+Download annotated depth maps data set (14 GB) 
+Download projected raw LiDaR scans data set (2 GB) 
+Download manually selected validation and test data sets (5 GB) 
+Download development kit (48 K)
+
+Make sure to unzip annotated depth maps and raw LiDaR scans into the same directory so that all corresponding files end up in the same folder structure.
+
+是不是代表我要下載1跟2，加起來16G...下载14G那个
+
+
+雙邊濾波很適合用來改一般的2D圖...一定要下載14G嗎？我之前有寫高斯模糊跟卷積操作，很想直接用java寫另一個卷積核來併用就好。
+
+
+
+
